@@ -28,6 +28,7 @@ Software engineer from **Nairobi, Kenya** specializing in **retrieval-augmented 
 
 | ⭐ | Project | What it does |
 |---:|---|---|
+| ⭐ | [prompt-toolkit](https://github.com/lemayian23/prompt-toolkit) | Dataclass-based prompt template toolkit — validated placeholders, 3 real RAG prompts (rewrite → cited answer → grade). Week 1 of my AI engineering course. |
 | 22 | [`tuk-convosearch`](https://github.com/lemayian23/tuk-convosearch) | Production-grade RAG student assistant — ingestion → chunking → 384-dim embeddings → FAISS → cited answers, fully on CPU. Final-year project. |
 | 1 | [`metadata-rag`](https://github.com/lemayian23/metadata-rag) | Fully local 10-capability RAG platform — hybrid search, knowledge graphs, corrective retrieval, multi-tool agents. Nine ADRs, golden Q/A suite. |
 | 1 | [`lema_wifi`](https://github.com/lemayian23/lema_wifi) | Self-hosted WiFi billing system — vouchers, payments, hotspot management. |
